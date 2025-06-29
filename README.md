@@ -1,14 +1,25 @@
 <img src="header.svg"></img>
-<h2 align="left">Hi 👋! My name is Faisal Khan and I'm a Software Engineer from Integral University</h2>
+## 🎓 Just a fellow engineer | ![](https://komarev.com/ghpvc/?username=faisalknn091&label=Profile%20views&color=0e75b6&style=flat)
+<img align="right" height="204" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
-###
+- 🔭 I’m focusing on enhancing my professional skills.
+
+- 🚀 I’m currently learning Data Structures and Algorithms on [LeetCode](https://leetcode.com/m_Faisal_khan).
+
+- 👯 I’m looking to collaborate with anyone on any project.
+
+- 📫 You can reach me at **faisalkhan.9.2002@gmail.com**
+
+- ⚡ Fun fact **I love football and games**
+
+## :trophy: My Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faisalknn09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faisalknn09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+## 🧰 Languages and Tools:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
@@ -34,9 +45,9 @@
 
 ###
 
-<img align="right" height="204" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
-###
+
+## :email: Find me on: 
 
 <div align="left">
   <a href="mailto:faisalkhan.9.2002@gmail.com" target="_blank">
@@ -47,8 +58,14 @@
   </a>
 </div>
 
-###
+## 👨‍💻 LeetCode Activity:
+<p align="center">
+<a href="https://leetcode.com/m_Faisal_khan">
+  <img align="center" src="https://leetcode.card.workers.dev/?username=m_Faisal_khan&style=auto&border=1&extension=activity&font=Times%20New%20Roman" alt="leetcode" />
+</a>
+</p>
 
+###
 <br clear="both">
 
 <picture>
