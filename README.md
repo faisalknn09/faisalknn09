@@ -1,3 +1,4 @@
+<img src="header.svg"></img>
 <h2 align="left">Hi 👋! My name is Faisal Khan and I'm a Software Engineer from Integral University</h2>
 
 ###
